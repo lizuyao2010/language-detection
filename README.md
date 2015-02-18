@@ -1,75 +1,77 @@
 # language-detection
 language deteciton
 
+## Language Support
+
 ### 70 Built-in Language Profiles
 
-af Afrikaans
-an Aragonese
-ar Arabic
-ast Asturian
-be Belarusian
-br Breton
-ca Catalan
-bg Bulgarian
-bn Bengali
-cs Czech
-cy Welsh
-da Danish
-de German
-el Greek
-en English
-es Spanish
-et Estonian
-eu Basque
-fa Persian
-fi Finnish
-fr French
-ga Irish
-gl Galician
-gu Gujarati
-he Hebrew
-hi Hindi
-hr Croatian
-ht Haitian
-hu Hungarian
-id Indonesian
-is Icelandic
-it Italian
-ja Japanese
-km Khmer
-kn Kannada
-ko Korean
-lt Lithuanian
-lv Latvian
-mk Macedonian
-ml Malayalam
-mr Marathi
-ms Malay
-mt Maltese
-ne Nepali
-nl Dutch
-no Norwegian
-oc Occitan
-pa Punjabi
-pl Polish
-pt Portuguese
-ro Romanian
-ru Russian
-sk Slovak
-sl Slovene
-so Somali
-sq Albanian
-sr Serbian
-sv Swedish
-sw Swahili
-ta Tamil
-te Telugu
-th Thai
-tl Tagalog
-tr Turkish
-uk Ukrainian
-ur Urdu
-vi Vietnamese
-yi Yiddish
-zh-cn Simplified Chinese
-zh-tw Traditional Chinese
+1. af Afrikaans
+1. an Aragonese
+1. ar Arabic
+1. ast Asturian
+1. be Belarusian
+1. br Breton
+1. ca Catalan
+1. bg Bulgarian
+1. bn Bengali
+1. cs Czech
+1. cy Welsh
+1. da Danish
+1. de German
+1. el Greek
+1. en English
+1. es Spanish
+1. et Estonian
+1. eu Basque
+1. fa Persian
+1. fi Finnish
+1. fr French
+1. ga Irish
+1. gl Galician
+1. gu Gujarati
+1. he Hebrew
+1. hi Hindi
+1. hr Croatian
+1. ht Haitian
+1. hu Hungarian
+1. id Indonesian
+1. is Icelandic
+1. it Italian
+1. ja Japanese
+1. km Khmer
+1. kn Kannada
+1. ko Korean
+1. lt Lithuanian
+1. lv Latvian
+1. mk Macedonian
+1. ml Malayalam
+1. mr Marathi
+1. ms Malay
+1. mt Maltese
+1. ne Nepali
+1. nl Dutch
+1. no Norwegian
+1. oc Occitan
+1. pa Punjabi
+1. pl Polish
+1. pt Portuguese
+1. ro Romanian
+1. ru Russian
+1. sk Slovak
+1. sl Slovene
+1. so Somali
+1. sq Albanian
+1. sr Serbian
+1. sv Swedish
+1. sw Swahili
+1. ta Tamil
+1. te Telugu
+1. th Thai
+1. tl Tagalog
+1. tr Turkish
+1. uk Ukrainian
+1. ur Urdu
+1. vi Vietnamese
+1. yi Yiddish
+1. zh-cn Simplified Chinese
+1. zh-tw Traditional Chinese
