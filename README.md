@@ -1,9 +1,13 @@
 # language-detection
-language deteciton program written in python with naive bayes classifier.
+language deteciton program written in python
+# classifier
+naive bayes classifier.
+# features
 features are bigrams in the text.
-
+# model
+pretrained model using bag of n-grams
 # usage
-python language_detector.py test.txt
+python src/language_detector.py test/test.txt
 
 ## Language Support
 
@@ -79,3 +83,6 @@ python language_detector.py test.txt
 1. yi Yiddish
 1. zh-cn Simplified Chinese
 1. zh-tw Traditional Chinese
+
+# reference
+https://github.com/optimaize/language-detector
