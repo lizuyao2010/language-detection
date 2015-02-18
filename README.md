@@ -1,5 +1,9 @@
 # language-detection
-language deteciton
+language deteciton program written in python with naive bayes classifier.
+features are bigrams in the text.
+
+# usage
+python language_detector.py test.txt
 
 ## Language Support
 
