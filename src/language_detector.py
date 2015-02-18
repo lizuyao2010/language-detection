@@ -27,9 +27,7 @@ def get_features(text):
 
 def predict(langlist,text,order):
     grams=get_features(text)
-    pre_label=''
-    pre_score=float('-infinity')
-    
+    pre_label=''    
     v=sum(language['n_words'][order-1] for language in langlist)
     predict_list=[]
     for language in langlist:
@@ -46,10 +44,10 @@ def predict(langlist,text,order):
 
 
 if __name__=='__main__':
-    root="languages"
-    order=2
-    langlist=get_langlist(root)
+    ROOT="languages"
+    ORDER=2
+    langlist=get_langlist(ROOT)
     with open(sys.argv[1],'r') as fr:
         text=fr.read().strip().decode('UTF-8')
-    pre_label=predict(langlist,text,order)  
+    pre_label=predict(langlist,text,ORDER)  
     print "predicted language type is:", pre_label
